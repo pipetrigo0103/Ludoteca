@@ -1,0 +1,21 @@
+{
+ "name": "Ludoteca de Pipe y Ju",
+ "short_name": "Ludoteca",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#192B38",
+ "theme_color": "#192B38",
+ "icons": [
+  {
+   "src": "icon192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "logo512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
